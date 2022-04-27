@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-route-progress",
+  "version": "1.0.0",
+  "private": true,
+  "description": "gatsby-route-progress",
+  "author": "arfan",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.13.0",
+    "gatsby-plugin-nprogress": "^4.13.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
